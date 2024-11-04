@@ -1,0 +1,10 @@
+Distributor ID: Distribution Name
+Description:    Ubuntu 20.04.3 LTS
+..... omitted 
+NAME="Ubuntu"
+VERSION="20.04.3 LTS (Focal Fossa)"
+ID=ubuntu
+..... omitted
+PRIVACY_POLICY_URL="https://www.ubuntu.com/legal/terms-and-policies/privacy-policy"
+VERSION_CODENAME=focal
+UBUNTU_CODENAME=focal
